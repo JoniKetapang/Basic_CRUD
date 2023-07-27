@@ -1,5 +1,4 @@
 # Capstone-Project
-Tugas Modul 1 JC-Datascience-Purwadhika
 
 Capstone Project 1 merupakan project di akhir modul 1 untuk program JC-Datascience. 
 Para murid diminta untuk membuat program CRUD menggunakan language model python dengan tema tertentu yang telah dipilih sebelumnya.
