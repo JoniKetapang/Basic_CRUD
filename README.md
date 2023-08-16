@@ -1,4 +1,4 @@
-# Capstone-Project
+# CRUD
 
 The data type used in this project is a List within a Dictionary. The application includes the following features:
 
